@@ -1,10 +1,10 @@
-# npontu_tracker
+# <div align = "center"> TeamSync </div>
 
 An enterprise-grade **Application Support Team Activity Tracker** built with Laravel. Designed to streamline daily operations, provide real-time status updates on support tasks, and generate activity history reports for team handovers.
 
 ## Overview
 
-npontu_tracker is a web-based application that helps support teams efficiently manage their workload, track activities, and maintain comprehensive audit trails. Perfect for IT support departments, customer success teams, and any organization requiring detailed activity documentation and team coordination.
+TeamSync is a web-based application that helps support teams efficiently manage their workload, track activities, and maintain comprehensive audit trails. Perfect for IT support departments, customer success teams, and any organization requiring detailed activity documentation and team coordination.
 
 ## Features
 
